@@ -1,4 +1,5 @@
 LOCAL_PATH := $(call my-dir)
+LOCAL_LDFLAGS += -fPIC
 
 include $(CLEAR_VARS)
 
